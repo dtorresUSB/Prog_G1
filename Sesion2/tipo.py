@@ -1,3 +1,6 @@
+#Para ejecutar cualquiera de los codigos, recuerde quitar el comentario al inicio de 
+#la linea de código.
+
 #------------------Conocer el tipo de variable------------------
 x=5
 print(type(x))
