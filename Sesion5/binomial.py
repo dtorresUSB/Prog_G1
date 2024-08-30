@@ -1,4 +1,4 @@
-from factorial import n_factorial as f
+from ProgG2.Sesion5.factorial import n_factorial as f
 
 def main():
     equipos=int(input('Ingrese el numero de equipos: '))
